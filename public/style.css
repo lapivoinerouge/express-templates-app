@@ -1,0 +1,14 @@
+h1 {
+    font-weight: lighter;
+    font-style: italic;
+}
+
+body.dark {
+  background-color: rgb(27, 27, 27);
+  color: rgb(255, 255, 255);
+}
+
+body.dark a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
